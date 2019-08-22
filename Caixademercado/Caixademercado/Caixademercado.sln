@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caixademercado", "Caixademercado\Caixademercado.csproj", "{CBBB4641-2A76-4AFC-9895-0512BEB9B810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBB4641-2A76-4AFC-9895-0512BEB9B810}.Debug|x86.ActiveCfg = Debug|x86
+		{CBBB4641-2A76-4AFC-9895-0512BEB9B810}.Debug|x86.Build.0 = Debug|x86
+		{CBBB4641-2A76-4AFC-9895-0512BEB9B810}.Release|x86.ActiveCfg = Release|x86
+		{CBBB4641-2A76-4AFC-9895-0512BEB9B810}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
